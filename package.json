@@ -1,0 +1,9 @@
+{
+    "dependencies": {
+      "fishback": ">=0.3",
+      "ql.io-engine": "*"
+    },    
+    "engines": {
+        "node": ">=0.8"
+    }
+}

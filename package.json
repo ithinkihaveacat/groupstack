@@ -1,6 +1,6 @@
 {
     "dependencies": {
-      "fishback": ">=0.3",
+      "fishback": "git://github.com/ithinkihaveacat/node-fishback.git",
       "ql.io-engine": "*"
     },    
     "engines": {
